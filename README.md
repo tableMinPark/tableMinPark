@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac/profile/tablemin163207](http://mazassumnida.wtf/api/pastel/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac
+tablemin163207](http://mazassumnida.wtf/api/pastel/generate_badge?boj={handle})](https://solved.ac/{handle})
