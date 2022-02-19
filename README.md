@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/Ubuntu-E34F26?style=flat-square&logo=Ubuntu&logoColor=white" />
